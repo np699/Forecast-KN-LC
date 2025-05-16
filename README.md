@@ -93,5 +93,5 @@ Link to O4 run dataset: https://drexel0-my.sharepoint.com/:f:/g/personal/np699_d
 
 ### Rubin
 Link to O5 run dataset: https://drexel0-my.sharepoint.com/:f:/g/personal/np699_drexel_edu/ElbV56VDxwtPtLro1i4UEPsBAym0O8PrpZRUXlP1GQBNKA?e=42WJrX
-Link to the model without mass_ejecta: 
-Link to the model with mass_ejecta: 
+Link to the model without mass_ejecta: https://drexel0-my.sharepoint.com/:u:/g/personal/np699_drexel_edu/EZDc89uG-TNOn7wFU6UAMz0BwTUSwR0NZJ6kjT6Lv3FKLw?e=ob2c6o
+Link to the model with mass_ejecta: https://drexel0-my.sharepoint.com/:u:/g/personal/np699_drexel_edu/EeKhlyaYz6RFrNwEywBw9d8BDGxDIb6XrfQF334s2Juvtg?e=3C3BXC
