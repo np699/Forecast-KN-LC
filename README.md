@@ -1,5 +1,3 @@
-# Forecast-KN-LC
-
 # Training Data 
 
 ## Injections and Light Curve Data
@@ -79,9 +77,13 @@ light_curve_analysis \
 
 Replace placeholders in {} with your specific paths or values.
 
-In the allsky.dat files you can find other event parameters such as SNR, area(90), etc. 
+## All-Sky Event Parameters and EM-Bright Classification
+The allsky.dat files include additional parameters for each event, such as: Signal-to-noise ratio (SNR), 90% credible area (area(90)), and other localization metrics.
+To determine the electromagnetic-bright (EM-Bright) classification of an event, use the em-bright classification tool provided by the LIGO Collaboration (https://git.ligo.org/emfollow/em-properties/em-bright). This tool outputs key physical properties such as:
 
-Event EM-Bright classification can be obtain using this repo (). : This section includes properties like HasNS, HasRemnant, and HasMassGap (with NS ranging between 3 and 5 solar masses). Essentially, this information provides insights into the likelihood of the merger, including a neutron star or a remnant that expels some form of matter.
+- HasNS: Indicates the presence of at least one neutron star
+- HasRemnant: Suggests the existence of a remnant after merger
+- HasMassGap: Identifies systems with component masses in the 3–5 solar mass range
 
 ## Links to Data and Model 
 ### ZTF
@@ -91,3 +93,5 @@ Link to O4 run dataset: https://drexel0-my.sharepoint.com/:f:/g/personal/np699_d
 
 ### Rubin
 Link to O5 run dataset: https://drexel0-my.sharepoint.com/:f:/g/personal/np699_drexel_edu/ElbV56VDxwtPtLro1i4UEPsBAym0O8PrpZRUXlP1GQBNKA?e=42WJrX
+Link to the model without mass_ejecta: 
+Link to the model with mass_ejecta: 
