@@ -79,9 +79,9 @@ light_curve_analysis \
 
 Replace placeholders in {} with your specific paths or values.
 
-Runs: This pertains to the metadata for sky maps.
+In the allsky.dat files you can find other event parameters such as SNR, area(90), etc. 
 
-Event Characteristics: This section includes properties like HasNS, HasRemnant, and HasMassGap (with NS ranging between 3 and 5 solar masses). Essentially, this information provides insights into the likelihood of the merger, including a neutron star or a remnant that expels some form of matter.
+Event EM-Bright classification can be obtain using this repo (). : This section includes properties like HasNS, HasRemnant, and HasMassGap (with NS ranging between 3 and 5 solar masses). Essentially, this information provides insights into the likelihood of the merger, including a neutron star or a remnant that expels some form of matter.
 
 ## Links to Data and Model 
 ### ZTF
