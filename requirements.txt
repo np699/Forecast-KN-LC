@@ -1,0 +1,10 @@
+# Requires Python >=3.11.7
+
+tensorflow>= 2.16.1
+keras>=3.4.1
+scikit-learn>=1.5.1
+pandas>=2.1.4
+numpy>=1.26.4
+matplotlib>=3.8.0
+astropy>=6.1.2
+joblib>=1.2.0
