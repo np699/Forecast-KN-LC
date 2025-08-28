@@ -87,7 +87,7 @@ To determine the electromagnetic-bright (EM-Bright) classification of an event, 
 
 ## Links to Data and Model 
 ### ZTF
-Link to the model without mass_ejecta: https://drexel0-my.sharepoint.com/:u:/g/personal/np699_drexel_edu/Ebur3uVzvMRAkxKq6ySJMukBLqpZVrkKv9CdJ1PxzAowOA?e=s2oyBp
+Link to the model without mass_ejecta: https://drexel0-my.sharepoint.com/:u:/g/personal/np699_drexel_edu/Eb3A-LOYMpBHpg1wdSmru4QBYhRdZHGN0Rz20JvcuJpx5g?e=Ffw6kV
 Link to the model with mass_ejecta: https://drexel0-my.sharepoint.com/:u:/g/personal/np699_drexel_edu/EddRLVicdFJLjz-PqIlejAABpK2FarM3wXdSCyrFcWxeWw?e=xKIpc9
 Link to O4 run dataset: https://drexel0-my.sharepoint.com/:f:/g/personal/np699_drexel_edu/Eiiu84uoD5NAheUAcCORKyYBh29DRfSRAz6_4DKebExHpQ?e=g3Erkj
 
